@@ -20,6 +20,9 @@ footer {
   grid-template-rows: 1fr 4fr;
 }
 
+div .link-boxes{
+	display: flex;
+}
 .bottom-details {
   background-color: #2c303a;
   display: flex;
